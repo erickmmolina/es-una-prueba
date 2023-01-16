@@ -1,2 +1,2 @@
 # es-una-prueba
-repositorio de prueba
+repositorio de pruebas
